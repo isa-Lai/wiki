@@ -1,12 +1,12 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>4.10.2</small>
+# Isa-Lai's Wiki <small>1.0</small>
 
-> A magical documentation site generator.
+> Personal Wiki & Docs.
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- This is my personal note archive.
+- Feel free to browse any content.
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[About Me](about.md)
+[About This Page](about.md)
 [Getting Started](#docsify)
