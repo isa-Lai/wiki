@@ -9,4 +9,4 @@
 
 [About Me](about.md)
 [About This Page](about.md)
-[Getting Started](#To Use This Page)
+[Getting Started](#wiki)
