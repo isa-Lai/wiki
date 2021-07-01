@@ -4,6 +4,7 @@
   - [C/C++](c/cpp.md)
   - [Python](python.md)
   - [C#](csharp.md)
+  - [SQL](sql.md)
 
 - Software Engineering
 
