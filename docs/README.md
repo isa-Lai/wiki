@@ -9,6 +9,7 @@ You can also search for content at the top of the side bar.
   - [C/C++](c/cpp.md)
   - [Python](python.md)
   - [C#](csharp.md)
+  - [SQL](sql.md)
 
 - Software Engineering
 
