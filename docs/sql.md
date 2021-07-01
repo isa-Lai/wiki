@@ -22,3 +22,11 @@ WHERE condition;
 ```SQL
 DELETE FROM table_name WHERE condition;
 ```
+
+## SQL Server
+
+- Insert Chinese Data
+When Chinese chatacters displays as "?", put "N" before the data can solve the issue.
+```SQL
+N'数据示例'
+```
