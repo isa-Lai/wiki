@@ -1,12 +1,13 @@
 - Programming Language
 
   - [Java](java.md)
-  - [C/C++](c/cpp.md)
+  - [C++](cpp.md)
+  - [C](c.md)
   - [JavaScript](javascript.md)
   - [Python](python.md)
   - [SQL](sql.md)
   - [C#](csharp.md)
-  - [Html & CSS](html&css.md)
+  - [Html&CSS](html&css.md)
   
 
 - Software Engineering
