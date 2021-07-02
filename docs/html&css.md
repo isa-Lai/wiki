@@ -4,14 +4,6 @@ docsify extends Markdown syntax to make your documents more readable.
 
 ## CSS
 ### Selector
-```CSS
-input{;}
-input[atrr="value"]{;}
-.class{;}
-#id{;}
-a:visited{伪类;}
-p::first-line{伪元素;}
-```
 
 |     Type     |      Example      |        Description        |
 |:------------:|:-----------------:|:-------------------------:|
@@ -21,7 +13,7 @@ p::first-line{伪元素;}
 | ID           | #id               |                           |
 | Attr         | input[attr=value] |                           |
 | Group        | div,span          | both <div> <span>         |
-| Child        | ul>li             | all <li> which under <ul> |
+| Child        | ul>li             | all li which under ul |
 | Sibling      | p~span            |                           |
 | Adjacent     | h2+p              |                           |
 | Pseudo Class | a:visited         | all visited <a>           |
