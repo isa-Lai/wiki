@@ -8,7 +8,7 @@ docsify extends Markdown syntax to make your documents more readable.
 |     Type     |      Example      |        Description        |
 |:------------:|:-----------------:|:-------------------------:|
 |   Universal  |         *         |        All Element        |
-|     Type     |       input       |          <input>          |
+|     Type     |       input       |          input element          |
 |     Class    |       .class      |                           |
 | ID           | #id               |                           |
 | Attr         | input[attr=value] |                           |
