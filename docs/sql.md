@@ -25,6 +25,32 @@ WHERE condition;
 ```sql
 DELETE FROM table_name WHERE condition;
 ```
+## Search
+
+LIKE
+```sql
+-- 1. start with c
+SELECT *
+FROM student
+WHERE name LIKE 'C%';
+ 
+-- 2.end with n
+SELECT *
+FROM student
+WHERE name LIKE '%n';
+ 
+-- 3.have o in name
+SELECT *
+FROM student
+WHERE name LIKE '%o%';
+ 
+-- "_" repersent one char
+ 
+-- 4.start with T and have 4 chars
+SELECT *
+FROM student
+WHERE name LIKE 'T___';
+```
 
 ## SQL Server
 
