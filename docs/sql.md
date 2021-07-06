@@ -3,8 +3,8 @@
 Structured Query Language
 
 ## General
+Insert
 
-- Insert
 ```sql
 INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...),
@@ -14,14 +14,16 @@ INSERT INTO Table_name
 Select * FROM Another_TableName WHERE Condition
 ```
 
-- Update
+Update
+
 ```sql
 UPDATE table_name
 SET column1 = value1, column2 = value2, ...
 WHERE condition;
 ```
 
-- Delete
+Delete
+
 ```sql
 DELETE FROM table_name WHERE condition;
 ```
