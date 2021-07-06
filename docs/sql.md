@@ -5,21 +5,24 @@ Structured Query Language
 ## General
 
 - Insert
-```SQL
+```sql
 INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...),
 (value1, value2, value3, ...);
+
+INSERT INTO Table_name
+Select * FROM Another_TableName WHERE Condition
 ```
 
 - Update
-```SQL
+```sql
 UPDATE table_name
 SET column1 = value1, column2 = value2, ...
 WHERE condition;
 ```
 
 - Delete
-```SQL
+```sql
 DELETE FROM table_name WHERE condition;
 ```
 
