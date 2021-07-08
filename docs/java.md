@@ -3,6 +3,9 @@
 ## Useful Library
 
 ```java
+//Array
+dataType[] arrayRefVar = new dataType[arraySize];
+
 //Hash Table
 Map<T, T> hashtable = new HashMap<T, T>();
 hashtable.get(index);
