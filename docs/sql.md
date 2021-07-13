@@ -75,7 +75,7 @@ Result:
 | B    | 5           |
 | C    | 4           |
 
-When there may be difference value in one colume, Error occur.
+When there may be difference value in one colume, **Aggregation Fun** needed(ect. SUM()). Otherwise error occur
 ```sql
 Select name,number from table
 where condition
