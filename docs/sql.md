@@ -54,6 +54,40 @@ FROM student
 WHERE name LIKE 'T___';
 ```
 
+## Group By
+Example table:
+| name | number |
+|------|--------|
+| A    | 1      |
+| B    | 2      |
+| B    | 3      |
+| C    | 4      |
+
+```sql
+Select name,SUM(number) from table
+where condition
+group by name
+```
+Result:
+| name | SUM(number) |
+|------|-------------|
+| A    | 1           |
+| B    | 5           |
+| C    | 4           |
+
+When there may be difference value in one colume, Error occur.
+```sql
+Select name,number from table
+where condition
+group by name
+```
+Error:
+| name | SUM(number) |
+|------|-------------|
+| A    | 1           |
+| B    | 2? 3?          |
+| C    | 4           |
+
 ## SQL Server
 
 - Insert Chinese Data
