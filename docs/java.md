@@ -14,4 +14,8 @@ hashtable.containsKey(index);
 
 //Hash Set
 Set<Character> occ = new HashSet<Character>();
+
+//Integer
+Integer.MIN_VALUE //-2^31
+Integer.MAX_VALUE //2^31-1
 ```
