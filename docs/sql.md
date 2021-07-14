@@ -27,6 +27,13 @@ Delete
 ```sql
 DELETE FROM table_name WHERE condition;
 ```
+Alert Table
+```sql
+ALTER TABLE table_name
+ADD column_name datatype
+DROP COLUMN column_name
+ALTER COLUMN column_name datatype
+```
 ## Search
 
 LIKE
