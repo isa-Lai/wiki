@@ -5,6 +5,7 @@
 ```java
 //Array
 dataType[] arrayRefVar = new dataType[arraySize];
+arrayRefVar.length;
 
 //Hash Table
 Map<T, T> hashtable = new HashMap<T, T>();
@@ -21,4 +22,7 @@ Integer.MAX_VALUE; //2^31-1
 
 //String
 s.length();
+s.substring(i,k);  //return substring in string s from index i to k; //not include i
+s.substring(i);  //i to the very end
+s.charAt(i);  //return char at index i
 ```
