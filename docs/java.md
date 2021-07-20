@@ -7,6 +7,11 @@
 dataType[] arrayRefVar = new dataType[arraySize];
 arrayRefVar.length;
 
+//Stack
+Deque<Character> stack = new LinkedList<Character>();
+stack.pop();
+stack.push(num);
+
 //Hash Table
 Map<T, T> hashtable = new HashMap<T, T>();
 hashtable.get(index);
@@ -26,3 +31,4 @@ s.substring(i,k);  //return substring in string s from index i to k; //not inclu
 s.substring(i);  //i to the very end
 s.charAt(i);  //return char at index i
 ```
+
