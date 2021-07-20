@@ -11,6 +11,7 @@ arrayRefVar.length;
 Deque<Character> stack = new LinkedList<Character>();
 stack.pop();
 stack.push(num);
+stack.isEmpty();
 
 //Hash Table
 Map<T, T> hashtable = new HashMap<T, T>();
