@@ -12,6 +12,7 @@ Deque<Character> stack = new LinkedList<Character>();
 stack.pop();
 stack.push(num);
 stack.isEmpty();
+stack.peek();
 
 //Hash Table
 Map<T, T> hashtable = new HashMap<T, T>();
