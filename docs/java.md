@@ -32,5 +32,6 @@ s.length();
 s.substring(i,k);  //return substring in string s from index i to k; //not include i
 s.substring(i);  //i to the very end
 s.charAt(i);  //return char at index i
+char[] charArray = s.toCharArray();
 ```
 
