@@ -6,6 +6,8 @@
 //Array
 dataType[] arrayRefVar = new dataType[arraySize];
 arrayRefVar.length;
+int[] nums;
+for(int x:nums){} //for each int in nums
 
 //Stack
 Deque<Character> stack = new LinkedList<Character>();
