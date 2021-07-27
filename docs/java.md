@@ -35,6 +35,10 @@ s.substring(i,k);  //return substring in string s from index i to k; //not inclu
 s.substring(i);  //i to the very end
 s.charAt(i);  //return char at index i
 char[] charArray = s.toCharArray();
+
+StringBuffer ans = new StringBuffer();
+ans.append('c');
+ans.reverse();
 ```
 
 ## Data Type Conversion
