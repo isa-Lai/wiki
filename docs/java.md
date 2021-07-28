@@ -39,6 +39,10 @@ char[] charArray = s.toCharArray();
 StringBuffer ans = new StringBuffer();
 ans.append('c');
 ans.reverse();
+
+//Math
+Math.max(1,2);
+Math.min(1,2);
 ```
 
 ## Data Type Conversion
