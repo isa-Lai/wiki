@@ -40,7 +40,7 @@ Design of Software
   <tr><td>1</td><td><b>Creational Patterns</b><br />Create objects while hiding the creation logic, rather than instantiating objects directly using new operator.</td>
     <td>
     <ul>
-      <li><a herf="/software-development?id=Factory-Pattern">工厂模式（Factory Pattern）</a></li>
+      <li><a href="#/software-development?id=factory-pattern">工厂模式（Factory Pattern）</a></li>
     <li>抽象工厂模式（Abstract Factory Pattern）</li>
     <li>单例模式（Singleton Pattern）</li>
     <li>建造者模式（Builder Pattern）</li>
