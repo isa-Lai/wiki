@@ -36,11 +36,11 @@ Design of Software
 ### Type of Design Patterns
 
 <table class="reference notranslate">
-<tr><th style="width:5%;">#</th><th style="width:45%;">Type</th><th>Patterns</th></tr>
+<tr><th style="width:5%;">#</th><th style="width:45%;">Type</th><th sttle="width:200px">Patterns</th></tr>
 <tr><td>1</td><td><b>Creational Patterns</b><br />Create objects while hiding the creation logic, rather than instantiating objects directly using new operator.</td>
 <td>
 <ul>
-<li>工厂模式（Factory Pattern）</li>
+<li>[工厂模式（Factory Pattern）](/software-development?id=Factory Pattern)</li>
 <li>抽象工厂模式（Abstract Factory Pattern）</li>
 <li>单例模式（Singleton Pattern）</li>
 <li>建造者模式（Builder Pattern）</li>
