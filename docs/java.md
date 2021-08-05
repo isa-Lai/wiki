@@ -2,7 +2,7 @@
 
 ## Useful Library
 
-```java
+```Java
 //Array
 dataType[] arrayRefVar = new dataType[arraySize];
 arrayRefVar.length;
@@ -51,7 +51,7 @@ Math.min(1,2);
 **(byte，short，char)->int->long->float->double**
 Form narrow to wide is **Implicit**, from wide to narrow is **Explicit**.
 byte,short,char are on the same level, they cannot be converted to each other.
-```java
+```Java
 long a = 1;
 float b = a; //automatic
 int c = (int)a; //explicit
@@ -59,7 +59,7 @@ int c = (int)a; //explicit
 
 ### Using Class
 **Boolean, Character, Integer, Long, Float and Double**
-```java
+```Java
 // double to int
 double d=100.00;
 System.out.println(d);//100.00
@@ -79,7 +79,7 @@ System.out.println(d);//200.0
 Basic Data Type can use String.valueOf(num);
 
 ### Date
-```java
+```Java
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
