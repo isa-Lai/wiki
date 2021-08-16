@@ -7,6 +7,6 @@
 - This is my personal note archive.
 - Feel free to browse any content.
 
-[About Me](about.md)
+[About Me](https://isa-lai.github.io/)
 [About This Page](about.md)
 [Getting Started](#wiki)
