@@ -18,7 +18,34 @@ docsify extends Markdown syntax to make your documents more readable.
 | Adjacent     | h2+p              |                           |
 | Pseudo Class | a:visited         | all visited <a>           |
 | Pseudo Ele   | p::first-line     | first line of all <p>     |
-
+  
+### Conditional Rules
+- @supports
+- @media
+- @document
+```css
+@supports (display: grid) {
+            section h1 {
+                background-color: green;
+                color: white;
+                padding: 15px;
+            }
+        }
+@media screen and (max-width: 700px) {
+            section {
+                background-color: green;
+                color: white;
+                padding: 15px;
+            }
+        }
+@-moz-document url("http://localhost/GfG/document-rule.html") {
+            section h1 {
+                background-color: green;
+                color: #fff;
+                padding: 15px;
+            }
+        }
+```
 ## HTML
 
 
