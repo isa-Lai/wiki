@@ -46,6 +46,26 @@ docsify extends Markdown syntax to make your documents more readable.
             }
         }
 ```
+### Animation
+- keyframe
+```css
+div
+{
+width:100px;
+height:100px;
+background:red;
+position:relative;
+animation:mymove 5s infinite;
+}
+@keyframes mymove
+{
+0%   {top:0px;}
+25%  {top:200px;}
+50%  {top:100px;}
+75%  {top:200px;}
+100% {top:0px;}
+}
+```
 ## HTML
 
 
