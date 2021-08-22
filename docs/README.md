@@ -6,10 +6,15 @@ You can also search for content at the top of the side bar.
 - Programming Language
 
   - [Java](java.md)
-  - [C/C++](c/cpp.md)
+  - [C++](cpp.md)
+  - [C](c.md)
+  - [JavaScript](javascript.md)
   - [Python](python.md)
-  - [C#](csharp.md)
   - [SQL](sql.md)
+  - [C#](csharp.md)
+  - [Html&CSS](html&css.md)
+  - [System](system.md)
+  
 
 - Software Engineering
 
@@ -17,6 +22,9 @@ You can also search for content at the top of the side bar.
   - [Data Structure](data-structure.md)
   - [Software Development](software-development.md)
   - [Database](database.md)
+  - [Other Tools](other-tools.md)
+
+
 
 - [About](about.md)
 - [Changelog](changelog.md)
