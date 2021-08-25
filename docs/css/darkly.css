@@ -506,8 +506,8 @@ section.cover {
   display: none;
   background: linear-gradient(
     to left bottom,
-    #00610e 0%,
-    #006151 100%
+    #1772b4 0%,
+    #1772b4 100%
   ) !important;
 }
 section.cover.show {
