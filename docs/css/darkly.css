@@ -25,6 +25,9 @@ div#app {
   margin: 40vh auto;
   text-align: center;
 }
+.cover-main>p>img{
+  width:20vh;
+}
 div#app:empty:before {
   content: 'Loading...';
 }
