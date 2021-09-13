@@ -7,3 +7,8 @@ git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
 git remote set-url origin https://ghp_sometokencode@github.com/isa-lai/isa-lai.github.io.git/
 ```
 
+Any wrong SSL verifycation may solve by
+```git
+git config --global http.sslVerify "false"
+```
+
