@@ -71,3 +71,6 @@ subplot(1,2,2);
 stem(n,question1b); title('Question 1b');
 xlabel('n'); ylabel('x[n]'); ylim([-0.5 3.5]);
 ```
+
+### Matrix
+Use `cat(dim, matrix1, matix2...)` to concentrate matrix.
