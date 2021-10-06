@@ -24,6 +24,10 @@ hashtable.containsKey(index);
 
 //Hash Set
 Set<Character> occ = new HashSet<Character>();
+occ.add(x);
+occ.remove(x);
+occ.contaibs(value);
+occ.get(index);
 
 //Integer
 Integer.MIN_VALUE; //-2^31
@@ -77,6 +81,7 @@ System.out.println(d);//200.0
 ### String
 **Boolean, Character, Integer, Long, Float and Double** can use toString();
 Basic Data Type can use String.valueOf(num);
+
 
 ### Date
 ```Java
